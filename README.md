@@ -1,4 +1,5 @@
 # Guessing Game
-Make was run on : Sun Oct  1 16:11:08 EDT 2017
+Make was run on : Sun Oct  1 16:19:41 EDT 2017
 
-There are  lines in guessinggame.sh -l
+Total lines in guessinggame.sh are :
+22
